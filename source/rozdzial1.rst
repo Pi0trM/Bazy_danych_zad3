@@ -1,3 +1,3 @@
-#Rozdział 1 - Konserwacja bazy danych
+#Rozdział 1 - Kontrola bazy danych
 -------------------------------------
 
